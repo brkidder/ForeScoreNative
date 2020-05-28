@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "ForeScoreNative",
+    "displayName": "Fore! Score: A golf scorecard app",
     "slug": "ForeScoreNative",
     "platforms": [
       "ios",
